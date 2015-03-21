@@ -63,3 +63,9 @@ Now Chromium will start after the raspberry pi is booted up and will show the we
 ## Good to know ##
 - default Raspbian login: user: pi pass: raspberry
 - the GPU of the Pi isn't that powerful. So animations in the browser don't really run smoothly. 
+
+
+## Sources ##
+
+- http://www.raspberrypi-spy.co.uk/2014/05/how-to-autostart-apps-in-rasbian-lxde-desktop/
+- http://www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/
