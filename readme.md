@@ -1,5 +1,5 @@
 #Create Raspberry Pi Kiosk on Raspbian Debian Wheezy#
-With this tutorial you can create a 'fullscreen kiosk' which shows a webpage. This webpage will run in chromium. For the Epiphany Browser read [this article](https://github.com/elalemanyo/raspberry-pi-kiosk-screen#epiphany-browser) 
+With this tutorial you can create a 'fullscreen kiosk' which shows a webpage. This webpage will run in chromium. For the Epiphany Browser (ARMhf) read [this article](https://github.com/elalemanyo/raspberry-pi-kiosk-screen#epiphany-browser) 
 ## Install Raspbian Debian Wheezy ##
 
 The first step is to install Raspbian on the Raspberry Pi. There are 2 ways to do this.
