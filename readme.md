@@ -43,6 +43,9 @@ First we ill comment out the @xscreensaver line by  adding a hashtag (#) and the
 @xset -dpms
 
 @chromium-browser --noerrdialogs --kiosk --incognito http://www.domain.com/to/kiosk/page
+or
+@chromium-browser --noerrdialogs --disable-session-crashed-bubble --disable-infobars --kiosk http://www.domain.com/to/kiosk/page
+
 ```
 
 
