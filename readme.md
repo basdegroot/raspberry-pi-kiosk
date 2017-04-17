@@ -1,4 +1,4 @@
-#Create Raspberry Pi Kiosk on Raspbian Debian Jessie#
+# Create Raspberry Pi Kiosk on Raspbian Debian Jessie #
 With this tutorial you can create a 'fullscreen kiosk' which shows a webpage. This webpage will run in chromium. 
  
 ## Install Raspbian Debian Wheezy ##
@@ -9,7 +9,7 @@ The first step is to install Raspbian on the Raspberry Pi. There are 2 ways to d
 
 At the end you need a fresh Raspbian Debian Jessie installed on your Raspberry Pi.
 
-##Configure Raspbian Jessie##
+## Configure Raspbian Jessie ##
 
 Raspbian will boot the GUI automatically. Next, boot up the terminal. We need to update the respositories:
 
